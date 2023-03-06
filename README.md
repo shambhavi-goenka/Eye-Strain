@@ -1,3 +1,4 @@
 # Eye-Strain
  
 May need to install dlib (dependency cmake)
+Rate needs to be checked - with threshold
