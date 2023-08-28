@@ -41,6 +41,8 @@
 
 The projects detects eye strain in real time based on blink rates. This data is sent to a dashboard on the menu bar that can indicate healthy blink rate levels and suggests the user when to blink more.
 
+Other repository is here https://github.com/IOT-G1-T2/eye-strain-detector
+
 <!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#top">back to top</a>)</p> -->
